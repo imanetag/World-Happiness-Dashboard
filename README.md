@@ -107,13 +107,6 @@ The dataset used is sourced from the [World Happiness Report](https://worldhappi
 
 Refer to `requirements.txt` for the complete list of dependencies.
 
-## Visual Preview
-
-Below is a sample screenshot of the dashboard:
-
-![Dashboard Preview](preview.png)
-
-
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
