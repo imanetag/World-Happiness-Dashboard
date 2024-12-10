@@ -1,8 +1,11 @@
 import subprocess
 import sys
 
-# List installed packages to verify if plotly is installed
-subprocess.run([sys.executable, "-m", "pip", "freeze"], check=True)
+try:
+    import plotly
+except ImportError:
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "plotly==5.11.0"])
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
