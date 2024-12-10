@@ -28,7 +28,7 @@ This dashboard features advanced visualizations and analysis across multiple tab
 - **Choropleth Map**:
   - A geographical visualization of happiness scores by country for the selected year.
 
-### Tab 3: Regional Analysis
+### Tab 3: Global and Regional Analysis
 
 - **Key Drivers of Happiness**:
   - Bubble plot to visualize the relationship between happiness scores and economic/social factors.
@@ -37,7 +37,7 @@ This dashboard features advanced visualizations and analysis across multiple tab
 - **Univariate Analysis**:
   - Histograms for key variables and time-series trends for happiness scores by region.
 
-### Tab 4: Country Comparison
+### Tab 4: Country and Regional Comparison
 
 - **Regional Factors**:
   - Bar plots displaying factors contributing to happiness by region.
