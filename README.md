@@ -87,7 +87,7 @@ The dashboard uses the **World Happiness Report** dataset. Ensure the dataset is
 - **Freedom**
 
 ### Dataset Source
-The dataset used is sourced from the [World Happiness Report](https://worldhappiness.report/). For this project, the 2023 version of the dataset has been utilized, which provides annual happiness scores and associated variables for countries worldwide.
+The dataset used is sourced from the [World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness). For this project, the last version of the dataset has been utilized (2015-2019), which provides annual happiness scores and associated variables for countries worldwide.
 
 ## Usage
 
