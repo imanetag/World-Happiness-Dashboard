@@ -1,4 +1,8 @@
-!pip install plotly
+import subprocess
+import sys
+
+# List installed packages to verify if plotly is installed
+subprocess.run([sys.executable, "-m", "pip", "freeze"], check=True)
 import streamlit as st
 import pandas as pd
 import plotly.express as px
